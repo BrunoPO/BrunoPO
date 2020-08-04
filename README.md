@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/BrunoPO/BrunoPO/blob/master/banner.png">
 
-<!--
-**BrunoPO/BrunoPO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Bruno Pinheiro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um Backend Developer :computer:
+
+ :rocket:  &nbsp; Estou trabalhando na **OSF**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando JS
+ <br/> :computer: &nbsp; Minha stack: VueJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [https://www.linkedin.com/in/bruno-pinheiro-019044154/
+| 
+[![Gmail Badge](https://img.shields.io/badge/-brunopo9896@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunopo9896@gmail.com)](mailto:brunopo9896@gmail.com)
