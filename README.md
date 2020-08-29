@@ -1,6 +1,3 @@
-<img width="auto" src="https://github.com/BrunoPO/BrunoPO/blob/master/banner.png">
-
-
 # Bruno Pinheiro
 
 ## Olá pessoal 👋
